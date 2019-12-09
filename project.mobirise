@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Calculadora MP",
-    "currentPage": "GUIA DEFINITIVO.html",
+    "currentPage": "CALCULADORA.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,10 +67,10 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "GUIA DEFINITIVO.html": {
+    "CALCULADORA.html": {
       "settings": {
         "main": true,
-        "title": "GUIA DEFINITIVO",
+        "title": "CALCULADORA",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
